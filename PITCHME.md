@@ -1,6 +1,6 @@
 ---
 @title[Splash Page]
-## {{Workflow Tools}}
+## {{<mark>Workflow Tools</mark>}}
 Help your future self!
 ---
 @title[Contents]
