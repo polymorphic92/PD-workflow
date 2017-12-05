@@ -8,4 +8,7 @@ Help your future self!
 * Terminal Emulators
 * Plugins
 * Miscellaneous
-## Thanks @fa[fa-sign-language]
+---
+## Thanks 
+
+@fa[sign-language]
