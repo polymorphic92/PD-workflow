@@ -24,10 +24,19 @@ CHUIS
 ---
 Terminal Emulators
 +++
-*CMDER
-*VSCODE
-*MobaXterm
-*GitBash 
+* CMDER
+* VSCODE
+* MobaXterm
+* GitBash 
+* Subsystem
+---
+Git Workflow
++++
+## UIs
+* Bitbucket
+* VSCode
+* GitKraken
+* SourceTree
 ---
 Plugins
 +++
@@ -39,10 +48,16 @@ Firefox
 +++
 Chrome
 * JSON-Viewer
-* Postman (Interceptor)
 * Meta CPAN Redirect
 * Onetab
 * Developer Tools
+---
++++
+Http Testing Progams
+* curl
+* postman
+* httpie
+* restclient
 ---
 ## Thanks 
 
