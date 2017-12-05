@@ -18,6 +18,7 @@ GUIs
 * SUBLIME
 * NOTEPAD++
 +++
+![chui](./chui)
 CHUIS
 * VI(M)
 * NANO
