@@ -9,6 +9,19 @@ Help your future self!
 * Plugins
 * Miscellaneous
 ---
+Editors
++++
+GUI and CHUI
++++
+GUIs
+* VSCODE
+* SUBLIME
+* NOTEPAD++
++++
+CHUIS
+* VI(M)
+* NANO
+---
 ## Thanks 
 
 @fa[sign-language]
