@@ -1,6 +1,11 @@
 ---
 @title[Splash Page]
-## Hello World
+## {{Workflow Tools}}
+Help your future self!
 ---
-@title[Closing Page]
-## Goodbye World
+@title[Contents]
+* Editors
+* Terminal Emulators
+* Plugins
+* Miscellaneous
+## Thanks @fa[fa-sign-language]
