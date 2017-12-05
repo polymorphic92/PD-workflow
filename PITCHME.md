@@ -19,6 +19,7 @@ GUIs
 * NOTEPAD++
 +++
 ![chui](./chui.gif)
+
 CHUIS
 * VI(M)
 * NANO
