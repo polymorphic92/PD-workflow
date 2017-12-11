@@ -54,6 +54,7 @@ Chrome
 * Onetab
 * Developer Tools
 ---
+Miscellaneous
 +++
 Http Testing Progams
 * curl
