@@ -54,6 +54,18 @@ Chrome
 * Onetab
 * Developer Tools
 ---
+Aliases
++++
+Shell
+* Shell Alias 1
+* Shell Alias 2
+* Shell Alias 3
++++
+Git
+* Git Alias 1
+* Git Alias 2
+* Git Alias 3
+---
 Miscellaneous
 +++
 Http Testing Progams
