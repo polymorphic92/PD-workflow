@@ -5,12 +5,9 @@ Help your future self!
 
 ---
 
-@title[Contents]
-## Table of Contents
-* Editors
-* Terminal Emulators
-* Plugins
-* Miscellaneous
+@title[Comparision]
+
+![workflow_comparision](./workflow_comparison.jpg)
 
 ---
 
