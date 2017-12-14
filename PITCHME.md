@@ -7,7 +7,7 @@ Help your future self!
 
 @title[Comparision]
 
-![workflow_comparision](./workflow_comparison.jpg)
+![workflow_comparision_w_text](./workflow_comparison_w_text.jpg)
 
 ---
 
