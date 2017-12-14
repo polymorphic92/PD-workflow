@@ -26,11 +26,12 @@ CHUIS
 ---
 Terminal Emulators
 +++
-* CMDER
-* VSCODE
 * MobaXterm
-* GitBash 
+* GitBash
+* CMDER
 * Subsystem
+
++ VSCODE Terminal
 ---
 Git Workflow
 +++
