@@ -31,7 +31,7 @@ Terminal Emulators
 * CMDER
 * Subsystem
 
-+ VSCODE Terminal
+`VSCODE Terminal`
 ---
 Git Workflow
 +++
