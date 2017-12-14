@@ -1,15 +1,21 @@
----
+
 @title[Splash Page]
 ## {{<mark>Workflow Tools</mark>}}
 Help your future self!
+
 ---
+
 @title[Contents]
+## Table of Contents
 * Editors
 * Terminal Emulators
 * Plugins
 * Miscellaneous
+
 ---
+
 Editors
+
 +++
 GUI and CHUI
 +++
@@ -23,15 +29,20 @@ GUIs
 CHUIS
 * VI(M)
 * NANO
+
 ---
+
 Terminal Emulators
 +++
-* CMDER
-* VSCODE
 * MobaXterm
-* GitBash 
+* GitBash
+* CMDER
 * Subsystem
+
+~ VSCODE Terminal
+
 ---
+
 Git Workflow
 +++
 ## UIs
@@ -39,7 +50,9 @@ Git Workflow
 * VSCode
 * GitKraken
 * SourceTree
+
 ---
+
 Plugins
 +++
 Browser Support
@@ -53,7 +66,9 @@ Chrome
 * Meta CPAN Redirect
 * Onetab
 * Developer Tools
+
 ---
+
 Aliases
 +++
 Shell
@@ -65,7 +80,9 @@ Git
 * Git Alias 1
 * Git Alias 2
 * Git Alias 3
+
 ---
+
 Miscellaneous
 +++
 Http Testing Progams
@@ -73,7 +90,9 @@ Http Testing Progams
 * postman
 * httpie
 * restclient
+
 ---
+
 ## Thanks 
 
 @fa[sign-language]
