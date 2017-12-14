@@ -9,6 +9,22 @@ Help your future self!
 
 ![workflow_comparision_w_text](./workflow_comparison_w_text.jpg)
 
++++
+
+### Notepad // VSCode
+
++++
+
+### vi // vim (Bells and whistles)
+
++++
+
+### MobaXterm // Cmder
+
++++
+
+### Git Gif (Change Through Push) || Git gif alias (Change through Push)
+
 ---
 
 Editors
