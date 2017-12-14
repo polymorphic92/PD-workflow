@@ -1,16 +1,12 @@
 
----
-
 @title[Splash Page]
 ## {{<mark>Workflow Tools</mark>}}
 Help your future self!
 
-Note:
-Lament Jason's departure here.
-
 ---
 
 @title[Contents]
+## Table of Contents
 * Editors
 * Terminal Emulators
 * Plugins
