@@ -1,5 +1,5 @@
 @title[Splash Page]
-## {{<mark>Optimizing Workflow/Tooling </mark>}}
+## {{Optimizing Workflow/Tooling}}
 Help your future self!
 +++
 
