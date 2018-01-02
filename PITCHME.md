@@ -4,7 +4,7 @@ Help your future self!
 +++
 
 ### What is your Workflow/Tooling
-* Tools, Applications amd Proccess that assit in code devlopment
+* Tools, Applications and Proccess that assit in code development
 
 +++ 
 
@@ -19,7 +19,9 @@ Help your future self!
  *  Can this part of Workflow or tool be automated
  *  Investigate new features, plugins, addons in currently used apps  
  *  Search for alerantive app that meets your needs
- 
+
+---
+## Examples
 ---
 
 ### File Manipulation
@@ -42,4 +44,7 @@ Help your future self!
 
 ---
 
-### Final Thoughts 
+### Final Thoughts
+
+
+
