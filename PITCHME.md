@@ -5,4 +5,21 @@ Help your future self!
 
 ---
 
-### foobar
+### File Manipulation
+
+---
+
+### Linting 
+
+---
+
+### Navigation/Presentation 
+
+---
+
+### Remote Procedures
+
+---
+
+### Software Management
+
