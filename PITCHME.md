@@ -16,7 +16,7 @@ Help your future self!
 +++
  ### Recommendations on how to Optimize your Workflow and Tooling 
  *  Try to identify parts of your workflow that could be optimized
- *  Can this part of Workflow or tool be automated
+ *  Can this part of the Workflow or tool be automated
  *  Investigate new features, plugins, addons in currently used apps  
  *  Search for alerantive app that meets your needs
 
@@ -31,6 +31,12 @@ Help your future self!
 * Why do you use this Application
 * What do you like about this Application
 * What do you dislike about this Application
+
++++ 
+### Different File Manipulation Applications
+* vim gif 
+* notpad ++ gif 
+* VSCODE gif
 ---
 
 ### Linting 
@@ -40,7 +46,9 @@ Help your future self!
 * Why do you use this Application
 * What do you like about this Application
 * What do you dislike about this Application
-
++++ 
+### Different Linting Applications
+* perl-critic & pertiddy gif 
 ---
 
 ### Navigation/Presentation 
@@ -48,6 +56,12 @@ Help your future self!
 ### Q/A
 * What do you look for in Navigation/Presentation in Applications
 * How do you configure Applications
+
++++ 
+### Navigation/Presentation Examples
+* Theme(s) gifs 
+* Example of customizing 
+* Navigating gif 
 ---
 
 ### Remote Procedures
@@ -57,6 +71,11 @@ Help your future self!
 * Why do you use this Application
 * What do you like about this Application
 * What do you dislike about this Application
+
+### Different Remote Procedures Applications 
+* ssh gif 
+* sftp gif  
+
 ---
 
 ### Software Management
@@ -66,6 +85,12 @@ Help your future self!
 * Why do you use this Application
 * What do you like about this Application
 * What do you dislike about this Application
+
++++
+### Different Software Management Applications 
+* package manager gif 
+* git gif 
+* binary gif 
 ---
 
 ### Final Thoughts
