@@ -45,6 +45,9 @@ Help your future self!
 ---
 
 ### Final Thoughts
-
+* Does my Workflow meet my currnet needs ?
+* What apps/proccess need to change 
+* How to adapt my currnet workflow to meet my future needs
+* Researching new apps/proccess that make your workflow easier
 
 
