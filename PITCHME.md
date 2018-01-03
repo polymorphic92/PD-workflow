@@ -73,8 +73,8 @@ Help your future self!
 * What do you dislike about this Application
 
 ### Different Remote Procedures Applications 
-* ssh gif 
-* sftp gif  
+* SSH gif 
+* SFTP gif  
 
 ---
 
@@ -88,9 +88,10 @@ Help your future self!
 
 +++
 ### Different Software Management Applications 
-* package manager gif 
-* git gif 
-* binary gif 
+* Package manager gif
+* Git gif 
+* Binary gif
+* Docker 
 ---
 
 ### Final Thoughts
