@@ -4,7 +4,7 @@ Help your future self!
 +++
 
 ### What is your Workflow/Tooling
-* Tools, Applications and Proccess that assit in code development
+* Tools, Applications and Proccess that assist in code development
 
 +++ 
 
@@ -46,10 +46,8 @@ Help your future self!
 ### Navigation/Presentation 
 +++
 ### Q/A
-* What Applications are you using to ######### 
-* Why do you use this Application
-* What do you like about this Application
-* What do you dislike about this Application
+* What do you look for in Navigation/Presentation in Applications
+* How do you configure Applications
 ---
 
 ### Remote Procedures
