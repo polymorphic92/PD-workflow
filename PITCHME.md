@@ -25,23 +25,49 @@ Help your future self!
 ---
 
 ### File Manipulation
-
++++
+### Q/A
+* what Applications are you using to manipulate files  
+* why do you use this Application
+* what do you like about this Application
+* what do you dislike about this Application
 ---
 
 ### Linting 
++++
+### Q/A
+* what Applications are you using to lint files  
+* why do you use this Application
+* what do you like about this Application
+* what do you dislike about this Application
 
 ---
 
 ### Navigation/Presentation 
-
++++
+### Q/A
+* what Applications are you using to ######### 
+* why do you use this Application
+* what do you like about this Application
+* what do you dislike about this Application
 ---
 
 ### Remote Procedures
-
++++
+### Q/A
+* what Applications are you using to do Remote Procedures
+* why do you use this Application
+* what do you like about this Application
+* what do you dislike about this Application
 ---
 
 ### Software Management
-
++++
+### Q/A
+* what Applications are you using to do software management
+* why do you use this Application
+* what do you like about this Application
+* what do you dislike about this Application
 ---
 
 ### Final Thoughts
