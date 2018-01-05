@@ -1,5 +1,5 @@
 @title[Splash Page]
-## {{Optimizing  Development Workflow and Tooling}}
+## {{Optimizing Development Workflow and Tooling}}
 Help your future self!
 +++
 
@@ -94,7 +94,13 @@ Help your future self!
 * Binary gif
 * Docker 
 ---
+### Tying it Altogether
+  #### Case :  When I write perl code I want to automatically lint (perltidy / perlcritic) the file(s) I was editing
+  * first phase  : Run perltidy and perlcritic in a container like what is setup in bamboo
+  * second phase : Create a git pre-commit hook that automatically runs container(perltidy and perlcritic)
+  * Third phase  : Replace hook with a text editor plugin that runs a container( perltidy and perlcritic) on saved
 
+---
 ### Final Thoughts
 * Does your "workflow" meet my current your needs ?
 * What applications/process need to change 
