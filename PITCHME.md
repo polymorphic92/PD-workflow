@@ -1,5 +1,5 @@
 @title[Splash Page]
-## {{Optimizing Workflow/Tooling}}
+## {{Optimizing  Development Workflow and Tooling}}
 Help your future self!
 +++
 
