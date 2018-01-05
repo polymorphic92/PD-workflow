@@ -4,21 +4,21 @@ Help your future self!
 +++
 
 ### What is your Workflow/Tooling
-* Tools, Applications and Proccess that assist in code development
+* Tools, Applications and Process that assist in code development
 
 +++ 
 
 ### Why should you Optimize your Workflow/Tooling
 * Easier to integrate  the use of new technologies
 * Process of code development becomes easier/faster
-* be perpared for the next "big thing" in software development  
+* be prepared for the next "big thing" in software development 
 
 +++
  ### Recommendations on how to Optimize your Workflow and Tooling 
  *  Try to identify parts of your workflow that could be optimized
  *  Can this part of the Workflow or tool be automated
- *  Investigate new features, plugins, addons in currently used apps  
- *  Search for alerantive app that meets your needs
+ *  Investigate new features, plugins, add-ons in currently used apps  
+ *  Search for alternative app that meets your needs
 
 ---
 ## Examples
@@ -48,7 +48,7 @@ Help your future self!
 * What do you dislike about this Application
 +++ 
 ### Different Linting Applications
-* perl-critic & pertiddy gif 
+* perl-critic & pertidy gif 
 ---
 
 ### Navigation/Presentation 
@@ -96,9 +96,9 @@ Help your future self!
 ---
 
 ### Final Thoughts
-* Does your Workflow meet my currnet your needs ?
-* What applications/proccess need to change 
-* How to adapt your currnet workflow to meet your future needs
-* Researching new apps/proccess that make your workflow easier
+* Does your Workflow meet my current your needs ?
+* What applications/process need to change 
+* How to adapt your current workflow to meet your future needs
+* Researching new apps/process that make your workflow easier
 
 
