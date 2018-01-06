@@ -9,7 +9,7 @@ Help your future self!
 +++ 
 
 ### Why should you Optimize your Workflow/Tooling
-* Easier to integrate  the use of new technologies
+* Easier to integrate the use of new technologies
 * Process of code development becomes easier/faster
 * be prepared for the next "big thing" in software development 
 
@@ -33,10 +33,11 @@ Help your future self!
 * What do you dislike about this Application
 
 +++ 
-### Different File Manipulation Applications
-* vim gif 
-* notpad ++ gif 
-* VSCODE gif
+### vim gif 
++++
+### notpad ++ gif
++++
+### VSCODE gif
 ---
 
 ### Linting 
@@ -58,10 +59,11 @@ Help your future self!
 * How do you configure Applications
 
 +++ 
-### Navigation/Presentation Examples
-* Theme(s) gifs 
-* Example of customizing 
-* Navigating gif 
+### Theme(s) gifs
++++
+### Example of customizing
++++
+### Navigating gif 
 ---
 
 ### Remote Procedures
@@ -73,9 +75,9 @@ Help your future self!
 * What do you dislike about this Application
 
 +++
-### Different Remote Procedures Applications 
-* SSH gif 
-* SFTP gif  
+### SSH gif
++++
+### SFTP gif  
 
 ---
 
@@ -88,11 +90,13 @@ Help your future self!
 * What do you dislike about this Application
 
 +++
-### Different Software Management Applications 
-* Package manager gif
-* Git gif 
-* Binary gif
-* Docker
+### Package manager gif
++++
+### Git gif
++++
+### Binary gif
++++
+### Docker
 ---
 
 ### Tying it Altogether
