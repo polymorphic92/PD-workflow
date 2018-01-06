@@ -48,8 +48,7 @@ Help your future self!
 * What do you like about this Application
 * What do you dislike about this Application
 +++ 
-### Different Linting Applications
-* perl-critic & pertidy gif 
+### perl-critic & pertidy gif 
 ---
 
 ### Navigation/Presentation 
