@@ -34,7 +34,7 @@ Help your future self!
 
 +++ 
 ### vim gif
-+![gif](gifs/file-editing-vi.gif)
+![gif](gifs/file-editing-vi.gif)
 +++
 ### notpad ++ gif
 +++
