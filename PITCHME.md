@@ -33,12 +33,14 @@ Help your future self!
 * What do you dislike about this Application
 
 +++ 
-### vim gif
+### Vim
 ![gif](gifs/file-editing-vi.gif)
 +++
-### notpad ++ gif
+### notpad ++
+![gif](gifs/file-editing-np-pp.gif)
 +++
-### VSCODE gif
+### VSCODE
+![gif](gifs/file-editing-vscode.gif)
 ---
 
 ### Linting 
