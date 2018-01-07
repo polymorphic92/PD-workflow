@@ -106,10 +106,10 @@ Help your future self!
 * What do you dislike about this Application
 
 +++
-### SSH example 
+### SSH
 ![gif](gifs/acsdev-ssh.gif)    
 +++
-### SFTP example 
+### SFTP 
 ![gif](gifs/notepad-sftp.gif)   
 
 ---
@@ -139,8 +139,7 @@ Help your future self!
   - first phase  : Run perltidy and perlcritic in a container like what is setup in bamboo
   - second phase : Create a git pre-commit hook that automatically runs container(perltidy and perlcritic) |
   - Third phase  : Replace hook with a text editor plugin that runs a container( perltidy and perlcritic) on saved |
-  
-
+ 
 ---
 
 ### Final Thoughts
