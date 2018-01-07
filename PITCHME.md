@@ -22,6 +22,8 @@ Help your future self!
 
 ---
 ## Examples
+Notes:
+these are just a fewe examples 
 ---
 
 ### File Manipulation
