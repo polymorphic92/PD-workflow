@@ -70,11 +70,11 @@ Help your future self!
 ### Theming
 +++
 ### Vim
-![gif](imgs/vim/vim-theme-3.png)    
+![gif](imgs/vim/vim-theme.png)
 +++
-![gif](imgs/vim/vim-theme-2.png) 
+![gif](imgs/vim/vim-theme-1.png) 
 +++
-![gif](imgs/vim/vim-theme-1.png)
+![gif](imgs/vim/vim-theme-2.jpg)
 +++
 ### Notepadd ++ 
 ![gif](imgs/notepadd++/notepad-plus-plus-theme-2.JPG)
@@ -83,6 +83,13 @@ Help your future self!
 +++
 ![gif](imgs/notepadd++/notepad-plus-plus-theme.png)
 +++
+### Vscode 
+![gif](imgs/vscode/theme1.png)
++++
+![gif](imgs/vscode/themes-ayu.gif)
++++
+![gif](imgs/vscode/icons.png)
+
 ### Navigation
 ![gif](imgs/acsdev-nav.gif) 
 +++
