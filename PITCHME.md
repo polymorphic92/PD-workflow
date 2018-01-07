@@ -33,7 +33,8 @@ Help your future self!
 * What do you dislike about this Application
 
 +++ 
-### vim gif 
+### vim gif
++![chui](./chui.gif)
 +++
 ### notpad ++ gif
 +++
