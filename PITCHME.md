@@ -82,7 +82,7 @@ Help your future self!
 ![gif](gifs/acsdev-ssh.gif)    
 +++
 ### SFTP example 
-![gif]()imgs/linting/explain-code-linting.jpg)   gifs/notepad-sftp.gif
+![gif](gifs/notepad-sftp.gif)   
 
 ---
 
