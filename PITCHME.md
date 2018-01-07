@@ -89,7 +89,7 @@ Help your future self!
 ![gif](imgs/vscode/themes-ayu.gif)
 +++
 ![gif](imgs/vscode/icons.png)
-
++++
 ### Navigation
 ![gif](imgs/acsdev-nav.gif) 
 +++
