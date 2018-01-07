@@ -51,8 +51,13 @@ Help your future self!
 * Why do you use this Application
 * What do you like about this Application
 * What do you dislike about this Application
-+++ 
-### perl-critic & pertidy gif 
++++
+###  
+![gif](imgs/linting/js-linting-ex.png) 
++++
+![gif](imgs/linting/linting.gif)     
++++
+![gif](imgs/linting/perl-vscode-linting.gif)
 ---
 
 ### Navigation/Presentation 
@@ -62,11 +67,27 @@ Help your future self!
 * How do you configure Applications
 
 +++ 
-### Theme(s) gifs
+### Theming
 +++
-### Example of customizing
+### Vim
+![gif](imgs/vim/vim-theme-3.png)    
 +++
-### Navigating gif 
+![gif](imgs/vim/vim-theme-2.png) 
++++
+![gif](imgs/vim/vim-theme-1.png)
++++
+### Notepadd ++ 
+![gif](imgs/notepadd++/notepad-plus-plus-theme-2.JPG)
++++
+![gif](imgs/notepadd++/notepad-plus-plus-theme-1.png)
++++
+![gif](imgs/notepadd++/notepad-plus-plus-theme.png)
++++
+### Navigation
+![gif](imgs/acsdev-nav.gif) 
++++
+![gif](gifs/nav-pres-1.gif)
+
 ---
 
 ### Remote Procedures
@@ -95,7 +116,8 @@ Help your future self!
 * What do you dislike about this Application
 
 +++
-### Package manager gif
+### Package manager
+![gif](gifs/linux-pkmag.gif) 
 +++
 ### Git gif
 +++
@@ -111,9 +133,7 @@ Help your future self!
   - second phase : Create a git pre-commit hook that automatically runs container(perltidy and perlcritic) |
   - Third phase  : Replace hook with a text editor plugin that runs a container( perltidy and perlcritic) on saved |
   
-+++
-### Integrated example
-![gif](imgs/linting/perl-vscode-linting.gif)
+
 ---
 
 ### Final Thoughts
