@@ -22,7 +22,8 @@ Help your future self!
 
 ---
 ## Examples
-Notes:
+
+Note:
 these are just a fewe examples 
 ---
 
