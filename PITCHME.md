@@ -43,7 +43,8 @@ Help your future self!
 ![gif](gifs/file-editing-vscode.gif)
 ---
 
-### Linting 
+### Linting
+![gif](imgs/linting/explain-code-linting.jpg)
 +++
 ### Q/A
 * What Applications are you using to lint files  
@@ -77,9 +78,11 @@ Help your future self!
 * What do you dislike about this Application
 
 +++
-### SSH gif
+### SSH example 
+![gif](gifs/acsdev-ssh.gif)    
 +++
-### SFTP gif  
+### SFTP example 
+![gif]()imgs/linting/explain-code-linting.jpg)   gifs/notepad-sftp.gif
 
 ---
 
@@ -107,11 +110,10 @@ Help your future self!
   - first phase  : Run perltidy and perlcritic in a container like what is setup in bamboo
   - second phase : Create a git pre-commit hook that automatically runs container(perltidy and perlcritic) |
   - Third phase  : Replace hook with a text editor plugin that runs a container( perltidy and perlcritic) on saved |
-
+  
 +++
-
-### integrated example
-* ex gif
+### Integrated example
+![gif](imgs/linting/perl-vscode-linting.gif)
 ---
 
 ### Final Thoughts
