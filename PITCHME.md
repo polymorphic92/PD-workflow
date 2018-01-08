@@ -18,7 +18,9 @@ Think of the collection of: Tools, Applications and Process that you use to comp
 
 Note: 
 1 when your tools and workflow is Optimize using new technologies is easier
+
 2 try to automate things we do daily (I have an example)
+
 3 We should always be looking were the puck is going (not where the puck is)
 
 +++
@@ -30,6 +32,7 @@ Note:
 
 Note:
 Here are a few broad recommendations  
+
 ---
 ## Examples
 
@@ -183,6 +186,7 @@ Note:
 optimizing does not stop here with these examples it could be expanded to:
 
 The way we program 
+
 using libaraies to things 
 
 
