@@ -170,7 +170,7 @@ Note: Managing the software that you use
 +++
 ### Git
 
-run the command  `git clone <tool>`
+run the command  ```git clone <tool>```
 Note: 
 
 git clone 
@@ -179,28 +179,27 @@ git clone
 ![mysql-installer](https://docs.oracle.com/cd/E17952_01/mysql-5.0-en/images/mysql-es-win32-fig1.png)
 +++
 ### Docker
-`docker run <tool>`
+```docker run <tool>```
 
 Note:
 docker run -d -p 9000:9000 --restart always -v /var/run/docker.sock:/var/run/docker.sock -v /opt/portainer:/data portainer/portainer
 
-
 ---
 ### A few Optimizations I made
 
-- bitbucket search   -> ripgrep
-- docker for windows ->  Docker + Vagrant |
-- notepadd ++        -> Vscode |
-- mobaXterm          -> cmder/ linux term |
-- powerline-shell |
+- Bitbucket search   -> ripgrep
+- Docker for windows -> Docker + VM |
+- Notepadd ++        -> Vscode |
+- MobaXterm          -> cmder/ linux term |
+- Powerline-shell |
 
 ---
 
 ### Tying it Altogether
  
   #### Case :  When I write perl code I want to automatically lint (perltidy / perlcritic) the file(s) I was editing
-  - first phase  : Run perltidy and perlcritic in a container like what is setup in bamboo
-  - second phase : Create a git pre-commit hook that automatically runs container(perltidy and perlcritic) |
+  - first phase  : Create a git pre-commit hook that automatically perltidy and perlcritic when I commit code 
+  - second phase : Run perltidy and perlcritic in a container like what is setup in bamboo |
   - Third phase  : Replace hook with a text editor plugin that runs a container( perltidy and perlcritic) on saved |
   
 Note:
