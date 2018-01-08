@@ -59,14 +59,18 @@ File editing and saving
 * What do you dislike about this Application
 
 +++ 
-### Vim
+### Vi(m)
 ![gif](gifs/file-editing-vi.gif)
++++
+![gif](https://github.com/scrooloose/nerdtree/raw/master/screenshot.png)
 +++
 ### notpad ++
 ![gif](gifs/file-editing-np-pp.gif)
 +++
 ### VSCODE
 ![gif](gifs/file-editing-vscode.gif)
++++
+![gif](imgs/vscode/vscode-git-feature.PNG)
 ---
 
 ### Linting
@@ -191,7 +195,3 @@ optimizing does not stop here with these examples it could be expanded to:
 The way we program 
 
 using libaraies to things 
-
-
-
-
