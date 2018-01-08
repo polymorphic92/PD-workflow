@@ -165,11 +165,22 @@ Note: Managing the software that you use
 ### Package manager
 ![gif](gifs/linux-pkmag.gif) 
 +++
-### Git gif
+### Git
+
+run the command  `git clone <tool>`
+Note: 
+
+git clone 
 +++
 ### Binary gif
+![mysql-installer](https://docs.oracle.com/cd/E17952_01/mysql-5.0-en/images/mysql-es-win32-fig1.png)
 +++
 ### Docker
+`docker run <tool>`
+
+Note:
+docker run -d -p 9000:9000 --restart always -v /var/run/docker.sock:/var/run/docker.sock -v /opt/portainer:/data portainer/portainer
+
 ---
 
 ### Tying it Altogether
