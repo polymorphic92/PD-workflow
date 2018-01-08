@@ -184,10 +184,17 @@ git clone
 Note:
 docker run -d -p 9000:9000 --restart always -v /var/run/docker.sock:/var/run/docker.sock -v /opt/portainer:/data portainer/portainer
 
+
++++
+### Optimization to my Workflow
+* bitbucket search   -> ripgrep
+* docker for windows ->  Docker + Vagrant |
+* notepadd ++        -> Vscode |
+* mobaXterm          -> cmder/ linux term |
+* powerline-shell |
 ---
 
 ### Tying it Altogether
-
  
   #### Case :  When I write perl code I want to automatically lint (perltidy / perlcritic) the file(s) I was editing
   - first phase  : Run perltidy and perlcritic in a container like what is setup in bamboo
