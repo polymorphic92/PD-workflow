@@ -164,17 +164,16 @@ Note: Managing the software that you use
 ---
 
 ### Tying it Altogether
- Note:
- 
- Here is an example of use parts of the pervious examples and applying them to make my life eaiser
+
  
   #### Case :  When I write perl code I want to automatically lint (perltidy / perlcritic) the file(s) I was editing
   - first phase  : Run perltidy and perlcritic in a container like what is setup in bamboo
   - second phase : Create a git pre-commit hook that automatically runs container(perltidy and perlcritic) |
   - Third phase  : Replace hook with a text editor plugin that runs a container( perltidy and perlcritic) on saved |
+  
+Note:
  
- 
-
+Here is an example of use parts of the pervious examples and applying them to make my life eaiser
  
 ---
 
