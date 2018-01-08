@@ -147,8 +147,11 @@ Doing something remotely
 ![gif](gifs/acsdev-ssh.gif)    
 +++
 ### SFTP 
-![gif](gifs/notepad-sftp.gif)   
+![gif](gifs/notepad-sftp.gif)
 
++++
+Docker ?
+![gif](gifs/eas-docker-run.gif)
 ---
 
 ### Software Management
