@@ -182,7 +182,6 @@ Note: Managing the software that you use
 * Researching new apps/process that make your "workflow" easier
 
 Note:
-
 optimizing does not stop here with these examples it could be expanded to:
 
 The way we program 
