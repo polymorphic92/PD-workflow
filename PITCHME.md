@@ -170,7 +170,9 @@ Note: Managing the software that you use
   - second phase : Create a git pre-commit hook that automatically runs container(perltidy and perlcritic) |
   - Third phase  : Replace hook with a text editor plugin that runs a container( perltidy and perlcritic) on saved |
  
+ 
  Note:
+ 
  Here is an example of use parts of the pervious examples and applying them to make my life eaiser
  
 ---
