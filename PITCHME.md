@@ -170,7 +170,7 @@ Note: Managing the software that you use
 +++
 ### Git
 
-run the command  ```git clone <tool>```
+```git clone <tool>```
 Note: 
 
 git clone 
@@ -213,6 +213,7 @@ Here is an example of use parts of the pervious examples and applying them to ma
 * What applications/process need to change 
 * How to adapt your current "workflow" to meet your future needs
 * Researching new apps/process that make your "workflow" easier
+* Browse reddit/github for new and cool apps that could be added to workflow
 
 Note:
 optimizing does not stop here with these examples it could be expanded to:
