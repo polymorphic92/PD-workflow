@@ -24,7 +24,8 @@ Help your future self!
 ## Examples
 
 Note:
-these are just a fewe examples 
+These are just a few examples, there are many more examples that I will not touch on
+I want to stress that this part is more of a FYI these examples exist than I use an app over another  
 ---
 
 ### File Manipulation
