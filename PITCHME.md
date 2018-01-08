@@ -63,9 +63,12 @@ File editing and saving
 ![gif](gifs/file-editing-vi.gif)
 +++
 ![gif](https://github.com/scrooloose/nerdtree/raw/master/screenshot.png)
+ 
+ <a href="https://vimawesome.com/" target="_blank">Vimawesome Plugins</a>
 +++
-### notpad ++
+### Notepad++
 ![gif](gifs/file-editing-np-pp.gif)
+<a href="http://docs.notepad-plus-plus.org/index.php/Plugin_Central" target="_blank">Notepad++ Plugins</a>     
 +++
 ### VSCODE
 ![gif](gifs/file-editing-vscode.gif)
