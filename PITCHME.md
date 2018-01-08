@@ -63,8 +63,8 @@ File editing and saving
 ![gif](gifs/file-editing-vi.gif)
 +++
 ![gif](https://github.com/scrooloose/nerdtree/raw/master/screenshot.png)
- 
  <a href="https://vimawesome.com/" target="_blank">Vimawesome Plugins</a>
+ 
 +++
 ### Notepad++
 ![gif](gifs/file-editing-np-pp.gif)
