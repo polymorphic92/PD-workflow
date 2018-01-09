@@ -69,7 +69,7 @@ These apps can do so much more
 ### Vi(m)
 ![gif](gifs/file-editing-vi.gif)
 +++
-![gif](https://github.com/scrooloose/nerdtree/raw/master/screenshot.png)
+<img src="https://github.com/scrooloose/nerdtree/raw/master/screenshot.png" width="75%" height="75%">
  <a href="https://vimawesome.com/" target="_blank">Vimawesome Plugins</a>
  
 +++
