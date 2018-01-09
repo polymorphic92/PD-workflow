@@ -1,30 +1,63 @@
 @title[Splash Page]
-## {{Optimizing Development Workflow and Tooling}}
+### Optimizing Development Workflow and Tooling
 Help your future self!
+
+
+<img src="imgs/splash.png" width="50%" height="50%">
+
+
 +++
 
 ### What is your Workflow/Tooling
 * Tools, Applications and Process that assist in code development
+
+Note:
+Think of the collection of: Tools, Applications and Process that you use to complete tasks 
 
 +++ 
 
 ### Why should you Optimize your Workflow/Tooling
 * Easier to integrate the use of new technologies
 * Process of code development becomes easier/faster
-* be prepared for the next "big thing" in software development 
+* be prepared for the next "Big Thing" in software development 
+
+Note: 
+1 when your tools and workflow is Optimize using new technologies is easier
+
+2 try to automate things we do daily (I have an example)
+
+3 We should always be looking were the puck is going (not where the puck is)
 
 +++
- ### Recommendations on how to Optimize your Workflow and Tooling 
- *  Try to identify parts of your "workflow" that could be optimized
- *  Can this part of the Workflow or tool be automated
- *  Investigate new features, plugins, add-ons in currently used apps  
- *  Search for alternative app that meets your needs
+ ### Optimizing Workflow and Tooling  Recommendations
+ *  Try to identify parts of your "Workflow" that could be optimized
+ *  Can this part of the Workflow or tool be automated |
+ *  Investigate new features, plugins, add-ons in currently used apps |
+ *  Search for alternative app that meets your needs |
+
+Note:
+Here are a few broad recommendations for Optimizing Workflow and Tooling
 
 ---
 ## Examples
+
+Note:
+These are just a few examples, there are many more examples that I will not touch on
+
+I want to stress that this part is more of a "FYI these examples exist" than I use an app over another
+
+Choose an app that make you efficient 
+
+Have the mind set with these example of could help instead of should help 
 ---
 
 ### File Manipulation
+
+Note:
+App that edit and save file 
+
+These apps can do so much more 
+
 +++
 ### Q/A
 * What Applications are you using to manipulate files  
@@ -33,14 +66,21 @@ Help your future self!
 * What do you dislike about this Application
 
 +++ 
-### Vim
+### Vi(m)
 ![gif](gifs/file-editing-vi.gif)
 +++
-### notpad ++
+<img src="https://github.com/scrooloose/nerdtree/raw/master/screenshot.png" width="75%" height="75%">
+ <a href="https://vimawesome.com/" target="_blank">Vimawesome Plugins</a>
+ 
++++
+### Notepad++
 ![gif](gifs/file-editing-np-pp.gif)
+<a href="http://docs.notepad-plus-plus.org/index.php/Plugin_Central" target="_blank">Notepad++ Plugins</a>     
 +++
 ### VSCODE
 ![gif](gifs/file-editing-vscode.gif)
++++
+![gif](imgs/vscode/vscode-git-feature.PNG)
 ---
 
 ### Linting
@@ -98,6 +138,10 @@ Help your future self!
 ---
 
 ### Remote Procedures
+
+Note:
+Doing something remotely
+
 +++
 ### Q/A
 * What Applications are you using to do Remote Procedures
@@ -110,11 +154,16 @@ Help your future self!
 ![gif](gifs/acsdev-ssh.gif)    
 +++
 ### SFTP 
-![gif](gifs/notepad-sftp.gif)   
+![gif](gifs/notepad-sftp.gif)
 
++++
+Docker ?
+![gif](gifs/eas-docker-run.gif)
 ---
 
 ### Software Management
+
+Note: Managing the software that you use 
 +++
 ### Q/A
 * What Applications are you using to do software management
@@ -126,19 +175,48 @@ Help your future self!
 ### Package manager
 ![gif](gifs/linux-pkmag.gif) 
 +++
-### Git gif
+### Git
+
+```git clone <tool url>```
+Note: 
+
+git clone 
 +++
-### Binary gif
+### Binary/Installer 
+![mysql-installer](https://docs.oracle.com/cd/E17952_01/mysql-5.0-en/images/mysql-es-win32-fig1.png)
+
+Note:
+exd/msi/dmg/ 
 +++
 ### Docker
+- docker run (OPTIONS) IMAGE (COMMAND) (ARG...)
+- <a href="https://portainer.readthedocs.io/en/latest/deployment.html#quick-start" target="_blank">Portainer: a simple management solution for Docker </a> |
+- docker run -d -p 9000:9000 --restart always -v /var/run/docker.sock:/var/run/docker.sock -v /opt/portainer:/data portainer/portainer | 
+
+Note:
+docker run -d -p 9000:9000 --restart always -v /var/run/docker.sock:/var/run/docker.sock -v /opt/portainer:/data portainer/portainer
+
+---
+### A few of my optimizations
+
+- Bitbucket search   -> ripgrep
+- Docker for Windows -> Docker + VM |
+- Notepad++          -> Vscode |
+- MobaXterm          -> cmder/blinux subsystem -> linux terminal |
+- Powerline-shell |
+
 ---
 
 ### Tying it Altogether
+Case :  When I write perl code I want to automatically lint (perltidy / perlcritic) the file(s) I was editing
 
-  #### Case :  When I write perl code I want to automatically lint (perltidy / perlcritic) the file(s) I was editing
-  - first phase  : Run perltidy and perlcritic in a container like what is setup in bamboo
-  - second phase : Create a git pre-commit hook that automatically runs container(perltidy and perlcritic) |
+  - first phase  : Create a git pre-commit hook that automatically runs perltidy and perlcritic before code is committed  
+  - second phase : Run perltidy and perlcritic in a container (similar bamboo) |
   - Third phase  : Replace hook with a text editor plugin that runs a container( perltidy and perlcritic) on saved |
+  
+Note:
+ 
+Here is an example of use parts of the pervious examples and applying them to make my life eaiser
  
 ---
 
@@ -147,5 +225,11 @@ Help your future self!
 * What applications/process need to change 
 * How to adapt your current "workflow" to meet your future needs
 * Researching new apps/process that make your "workflow" easier
+* Browse reddit/github for new and cool apps that could be added to workflow
 
+Note:
+optimizing does not stop here with these examples it could be expanded to:
 
+The way we program 
+
+using libaraies to things 
