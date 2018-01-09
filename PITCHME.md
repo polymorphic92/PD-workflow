@@ -143,9 +143,9 @@ Note:
 +++
 ![gif](imgs/linting/linting.gif)     
 +++
-### Linting in Perl 
-- perl tidy  and perl critic
-- stay tuned |
+### Linting in Perl: perl tidy/critic
+
+![gif](imgs/linting/perl-vscode-linting.gif)
 ---
 
 ### Navigation/Presentation 
@@ -285,21 +285,7 @@ wont be a Pd presenation with out a docker demo
 Note:
 These are some of my optimizations that I made; they could be useful but sometimes I still use the apps that they replaced ; depends on the task that I am doing
 vagrant ,bash 
----
 
-### Tying it Altogether
-Case :  Write perl code and automatically lint (perltidy / perlcritic) the file(s)
-
-  - First step  : Create a git pre-commit hook that automatically runs perltidy and perlcritic before code is committed  
-  - second step : Run perltidy and perlcritic in a container (similar bamboo) |
-  - Third step  : Replace hook with a text editor plugin that runs a container( perltidy and perlcritic) on saved |
-  
-Note:
- 
-Here is an example of use parts of the pervious examples and applying them to make my life eaiser
-
-+++
-![gif](imgs/linting/perl-vscode-linting.gif)
 ---
 
 ### Final Thoughts
