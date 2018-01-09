@@ -148,11 +148,11 @@ Note:
 ![gif](imgs/linting/perl-vscode-linting.gif)
 ---
 
-### Navigation/Presentation 
+### Customization
 +++
 ### Q/A
-* What do you look for in Navigation/Presentation in Applications
-* How do you configure Applications
+* Do customization your Applications/tools in your "Workflow"
+* How do you customization them
 
 Note:
 
