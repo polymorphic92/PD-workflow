@@ -5,7 +5,8 @@ Help your future self!
 
 <img src="imgs/splash.png" width="50%" height="50%">
 
-
+Note:
+Have Optimizes tool now so that you new techologies just work (with your workflow)
 +++
 
 ### What is your Workflow/Tooling
