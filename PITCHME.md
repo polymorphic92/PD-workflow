@@ -29,14 +29,14 @@ Note:
 3 We should always be looking were the puck is going (not where the puck is)
 
 +++
- ### Recommendations on how to Optimize your Workflow and Tooling 
- *  Try to identify parts of your "workflow" that could be optimized
- *  Can this part of the Workflow or tool be automated
- *  Investigate new features, plugins, add-ons in currently used apps  
- *  Search for alternative app that meets your needs
+ ### Optimizing Workflow and Tooling  Recommendations
+ *  Try to identify parts of your "Workflow" that could be optimized
+ *  Can this part of the Workflow or tool be automated |
+ *  Investigate new features, plugins, add-ons in currently used apps |
+ *  Search for alternative app that meets your needs |
 
 Note:
-Here are a few broad recommendations  
+Here are a few broad recommendations for Optimizing Workflow and Tooling
 
 ---
 ## Examples
@@ -44,15 +44,19 @@ Here are a few broad recommendations
 Note:
 These are just a few examples, there are many more examples that I will not touch on
 
-I want to stress that this part is more of a FYI these examples exist than I use an app over another
+I want to stress that this part is more of a "FYI these examples exist" than I use an app over another
 
-Have the mind set with  these example  of could help instead of should help 
+Choose an app that make you efficient 
+
+Have the mind set with these example of could help instead of should help 
 ---
 
 ### File Manipulation
 
 Note:
-File editing and saving
+App that edit and save file 
+
+These apps can do so much more 
 
 +++
 ### Q/A
@@ -173,36 +177,41 @@ Note: Managing the software that you use
 +++
 ### Git
 
-```git clone <tool>```
+```git clone <tool url>```
 Note: 
 
 git clone 
 +++
 ### Binary/Installer 
 ![mysql-installer](https://docs.oracle.com/cd/E17952_01/mysql-5.0-en/images/mysql-es-win32-fig1.png)
+
+Note:
+exd/msi/dmg/ 
 +++
 ### Docker
-```docker run <tool>```
+- docker run <tool image url>
+- <a href="https://portainer.readthedocs.io/en/latest/deployment.html#quick-start" target="_blank">Portainer: a simple management solution for Docker </a> |
+- docker run -d -p 9000:9000 --restart always -v /var/run/docker.sock:/var/run/docker.sock -v /opt/portainer:/data portainer/portainer | 
 
 Note:
 docker run -d -p 9000:9000 --restart always -v /var/run/docker.sock:/var/run/docker.sock -v /opt/portainer:/data portainer/portainer
 
 ---
-### A few Optimizations I made
+### A few of my optimizations
 
 - Bitbucket search   -> ripgrep
-- Docker for windows -> Docker + VM |
-- Notepadd ++        -> Vscode |
-- MobaXterm          -> cmder/ linux term |
+- Docker for Windows -> Docker + VM |
+- Notepad++          -> Vscode |
+- MobaXterm          -> cmder/blinux subsystem -> linux terminal |
 - Powerline-shell |
 
 ---
 
 ### Tying it Altogether
- 
-  #### Case :  When I write perl code I want to automatically lint (perltidy / perlcritic) the file(s) I was editing
-  - first phase  : Create a git pre-commit hook that automatically perltidy and perlcritic when I commit code 
-  - second phase : Run perltidy and perlcritic in a container like what is setup in bamboo |
+Case :  When I write perl code I want to automatically lint (perltidy / perlcritic) the file(s) I was editing
+
+  - first phase  : Create a git pre-commit hook that automatically runs perltidy and perlcritic before code is committed  
+  - second phase : Run perltidy and perlcritic in a container (similar bamboo) |
   - Third phase  : Replace hook with a text editor plugin that runs a container( perltidy and perlcritic) on saved |
   
 Note:
