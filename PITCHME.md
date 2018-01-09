@@ -17,9 +17,9 @@ Think of the collection of: Tools, Applications and Process that you use to comp
 +++ 
 
 ### Why should you Optimize your Workflow/Tooling
-* Easier to integrate the use of new technologies
-* Process of code development becomes easier/faster
-* be prepared for the next "Big Thing" in software development 
+- Easier to integrate the use of new technologies |
+- Process of code development becomes easier/faster |
+- be prepared for the next "Big Thing" in software development |
 
 Note: 
 1 Having an Optimized workflow, allows adding new technologies to become very easy
