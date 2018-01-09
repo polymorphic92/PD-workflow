@@ -264,7 +264,7 @@ exd/msi/dmg/
 +++
 ### Docker
 - docker run (OPTIONS) IMAGE (COMMAND) (ARG...)
-- A simple management solution for Docker: <a href="https://portainer.readthedocs.io/en/latest/deployment.html#quick-start" target="_blank">Portainer</a> |
+- A simple management solution for Docker:<a href="https://portainer.readthedocs.io/en/latest/deployment.html#quick-start" target="_blank">Portainer</a> | 
 - docker run -d -p 9000:9000 --restart always -v /var/run/docker.sock:/var/run/docker.sock -v /opt/portainer:/data portainer/portainer | 
 
 Note:
