@@ -266,7 +266,7 @@ wont be a Pd presenation with out a docker demo
 - Bitbucket search   -> ripgrep
 - Docker for Windows -> Docker + VM |
 - Notepad++          -> Vscode |
-- MobaXterm          -> cmder/blinux subsystem -> linux terminal |
+- MobaXterm          -> cmder/linux subsystem -> linux terminal |
 - Powerline-shell |
 
 ---
