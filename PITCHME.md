@@ -1,9 +1,9 @@
 @title[Splash Page]
 ### Optimizing Development Workflow and Tooling
 Help your future self!
-![splash image](imgs/splash.png =250x250)
 
-<img src="imgs/splash.png" width="250" height="250">
+
+<img src="imgs/splash.png" width="50%" height="50%">
 
 
 +++
