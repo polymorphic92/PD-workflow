@@ -29,11 +29,11 @@ Note:
 3 We should always be looking were the puck is going (not where the puck is)
 
 +++
- ### Optimizing Workflow and Tooling  Recommendations
- *  Try to identify parts of your "Workflow" that could be optimized
- *  Can any part(s) of your "Workflow" or a tool you use  be automated |
- *  Investigate new features, plugins, add-ons in currently used apps |
- *  Search for alternative applications that meets your needs |
+ ### Optimizing Workflow and Tooling Recommendations
+ -  Try to identify parts of your "Workflow" that could be optimized
+ -  Can any part(s) of your "Workflow" or a tool you use  be automated |
+ -  Investigate new features, plugins, add-ons in currently used apps |
+ -  Search for alternative applications that meets your needs |
 
 Note:
 Here are a few broad recommendations for Optimizing Workflow and Tooling
@@ -81,7 +81,7 @@ Note:
 
 3 - like the plugin system 
 
-4 terminal can be better 
+4 - terminal can be better 
 
 +++ 
 ### Vi(m)
@@ -130,9 +130,9 @@ Note:
 +++
 ![gif](imgs/linting/linting.gif)     
 +++
-### Linting in perl 
-* perl tidy  and perl critic
-* stay tuned
+### Linting in Perl 
+- perl tidy  and perl critic
+- stay tuned |
 ---
 
 ### Navigation/Presentation 
@@ -149,6 +149,9 @@ Note:
 +++ 
 
 ### Theming
+
+Note:
+Do you/can you change how your apps look
 +++
 ### Vim
 ![gif](imgs/vim/vim-theme.png)
@@ -172,7 +175,12 @@ Note:
 ![gif](imgs/vscode/icons.png)
 +++
 ### Navigation
-![gif](imgs/acsdev-nav.gif) 
+
+Note:
+How to navigate your workspace with and do you customize it 
++++
+![gif](imgs/acsdev-nav.gif)
+
 +++
 ![gif](gifs/nav-pres-1.gif)
 
@@ -192,7 +200,7 @@ Doing something remotely
 
 
 Note:
-I mainly do sql and log look searching 
+I mainly do sql and log searching  -> docker
 
 +++
 ### SSH
@@ -248,6 +256,10 @@ exd/msi/dmg/
 
 Note:
 docker run -d -p 9000:9000 --restart always -v /var/run/docker.sock:/var/run/docker.sock -v /opt/portainer:/data portainer/portainer
++++
+# Demo
+Note:
+wont be a Pd presenation with out a docker demo
 ---
 ### A few of my optimizations
 
