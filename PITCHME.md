@@ -31,24 +31,32 @@ Note:
 +++
  ### Optimizing Workflow and Tooling  Recommendations
  *  Try to identify parts of your "Workflow" that could be optimized
- *  Can this part of the Workflow or tool be automated |
+ *  Can any part(s) of your "Workflow" or a tool you use  be automated |
  *  Investigate new features, plugins, add-ons in currently used apps |
- *  Search for alternative app that meets your needs |
+ *  Search for alternative applications that meets your needs |
 
 Note:
 Here are a few broad recommendations for Optimizing Workflow and Tooling
+
+1 Do you think you can improve your work flow 
+
+2 Look for routine things that can be automated
+
+3 Are there any plugins that you are not using that could make coding easier
+
+4 Look at alternative applications  and decide if switching is the right move (for you)
 
 ---
 ## Examples
 
 Note:
-These are just a few examples, there are many more examples that I will not touch on
+These are just a few examples, there are many more applications out if I do not cover your favorite  you will have a chance to speak up
 
-I want to stress that this part is more of a "FYI these examples exist" than I use an app over another
+I want to stress that this part is more of a "FYI these apps exist" than "I use an app over another"
 
 Choose an app that make you efficient 
 
-Have the mind set with these example of could help instead of should help 
+Have the mind set with these example apps of could help instead of should help 
 ---
 
 ### File Manipulation
@@ -64,6 +72,16 @@ These apps can do so much more
 * Why do you use this Application
 * What do you like about this Application
 * What do you dislike about this Application
+
+Note:
+
+1 - vscode 
+
+2 - easy to use , built in features 
+
+3 - like the plugin system 
+
+4 terminal can be better 
 
 +++ 
 ### Vi(m)
@@ -95,13 +113,26 @@ These apps can do so much more
 * Why do you use this Application
 * What do you like about this Application
 * What do you dislike about this Application
+
+Note:
+
+1 perl tidy/critic
+
+2 best option at the moment 
+
+3 can be the same  linting as bamboo
+
+4 no code error help when coding 
+
 +++
 ###  
 ![gif](imgs/linting/js-linting-ex.png) 
 +++
 ![gif](imgs/linting/linting.gif)     
 +++
-![gif](imgs/linting/perl-vscode-linting.gif)
+### Linting in perl 
+* perl tidy  and perl critic
+* stay tuned
 ---
 
 ### Navigation/Presentation 
@@ -110,7 +141,13 @@ These apps can do so much more
 * What do you look for in Navigation/Presentation in Applications
 * How do you configure Applications
 
+Note:
+
+1 Theme/customization support 
+
+2 depends on the app I like to be minimal
 +++ 
+
 ### Theming
 +++
 ### Vim
@@ -153,6 +190,10 @@ Doing something remotely
 * What do you like about this Application
 * What do you dislike about this Application
 
+
+Note:
+I mainly do sql and log look searching 
+
 +++
 ### SSH
 ![gif](gifs/acsdev-ssh.gif)    
@@ -163,6 +204,10 @@ Doing something remotely
 +++
 Docker ?
 ![gif](gifs/eas-docker-run.gif)
+
+Note: 
+
+I do this instead of sshing into ascdev or sftping file on ascdev
 ---
 
 ### Software Management
@@ -174,6 +219,10 @@ Note: Managing the software that you use
 * Why do you use this Application
 * What do you like about this Application
 * What do you dislike about this Application
+
+
+Note:
+I use a lot of different methods to mange software 
 
 +++
 ### Package manager
@@ -199,7 +248,6 @@ exd/msi/dmg/
 
 Note:
 docker run -d -p 9000:9000 --restart always -v /var/run/docker.sock:/var/run/docker.sock -v /opt/portainer:/data portainer/portainer
-
 ---
 ### A few of my optimizations
 
@@ -221,7 +269,9 @@ Case :  When I write perl code I want to automatically lint (perltidy / perlcrit
 Note:
  
 Here is an example of use parts of the pervious examples and applying them to make my life eaiser
- 
+
++++
+![gif](imgs/linting/perl-vscode-linting.gif)
 ---
 
 ### Final Thoughts
@@ -229,7 +279,7 @@ Here is an example of use parts of the pervious examples and applying them to ma
 * What applications/process need to change 
 * How to adapt your current "workflow" to meet your future needs
 * Researching new apps/process that make your "workflow" easier
-* Browse reddit/github for new and cool apps that could be added to workflow
+* share your workflow/
 
 Note:
 optimizing does not stop here with these examples it could be expanded to:
@@ -237,3 +287,5 @@ optimizing does not stop here with these examples it could be expanded to:
 The way we program 
 
 using libaraies to things 
+
+if you have a tool you like share it
