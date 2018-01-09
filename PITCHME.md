@@ -3,6 +3,8 @@
 Help your future self!
 ![splash image](imgs/splash.png =250x250)
 
+<img src="imgs/splash.png" width="250" height="250">
+
 
 +++
 
