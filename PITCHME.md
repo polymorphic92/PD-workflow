@@ -81,6 +81,10 @@ These apps can do so much more
 ![gif](gifs/file-editing-vscode.gif)
 +++
 ![gif](imgs/vscode/vscode-git-feature.PNG)
+
++++
+![gif](imgs/vscode/vscode-plugin.PNG)
+ <a href="https://marketplace.visualstudio.com/" target="_blank">Vscode Plugins</a>
 ---
 
 ### Linting
