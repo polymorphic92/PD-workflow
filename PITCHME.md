@@ -1,8 +1,7 @@
 @title[Splash Page]
 ### Optimizing Development Workflow and Tooling
 Help your future self!
-
-![splash image](imgs/splash.png)
+![splash image](imgs/splash.png =250x250)
 
 
 +++
