@@ -86,6 +86,9 @@ Note:
 +++ 
 ### Vi(m)
 ![gif](gifs/file-editing-vi.gif)
+Note:
+advantages: its everywhere very customizabe 
+disadvantages: could be challenging to get use to 
 +++
 <img src="https://github.com/scrooloose/nerdtree/raw/master/screenshot.png" width="75%" height="75%">
  <a href="https://vimawesome.com/" target="_blank">Vimawesome Plugins</a>
@@ -94,9 +97,18 @@ Note:
 ### Notepad++
 ![gif](gifs/file-editing-np-pp.gif)
 <a href="http://docs.notepad-plus-plus.org/index.php/Plugin_Central" target="_blank">Notepad++ Plugins</a>     
+
+Note:
+advantages: simplistic easy to use an just works  
+disadvantages:I find it lacks plugins 
+
 +++
 ### VSCODE
 ![gif](gifs/file-editing-vscode.gif)
+Note:
+advantages: plugin support and easy of use  
+disadvantages: could be too much ; depends on what you are doing/editing 
+
 +++
 ![gif](imgs/vscode/vscode-git-feature.PNG)
 
@@ -269,6 +281,9 @@ wont be a Pd presenation with out a docker demo
 - MobaXterm          -> cmder/linux subsystem -> linux terminal |
 - Powerline-shell |
 
+Note:
+These are some of my optimizations that I made; they could be useful but sometimes I still use the apps that they replaced ; depends on the task that I am doing
+vagrant ,bash 
 ---
 
 ### Tying it Altogether
