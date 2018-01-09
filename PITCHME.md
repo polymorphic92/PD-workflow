@@ -175,7 +175,7 @@ Note:
 
 git clone 
 +++
-### Binary gif
+### Binary/Installer 
 ![mysql-installer](https://docs.oracle.com/cd/E17952_01/mysql-5.0-en/images/mysql-es-win32-fig1.png)
 +++
 ### Docker
