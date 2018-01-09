@@ -22,9 +22,9 @@ Think of the collection of: Tools, Applications and Process that you use to comp
 * be prepared for the next "Big Thing" in software development 
 
 Note: 
-1 Have an Optimized workflow and tooling, adding new technologies to it become very easy
+1 Having an Optimized workflow, allows adding new technologies to become very easy
 
-2 try to automate routine things are done  all the time that should not be done (I have an example)
+2 (We should) try to automate routine things that are done all the time (I have an example)
 
 3 Hockey refernce :  We should always be looking were the puck is going.
 
@@ -38,11 +38,11 @@ Note:
 Note:
 Here are a few broad recommendations for Optimizing Workflow and Tooling
 
-1 Do you think you can improve your work flow 
+1 Can your work flow be improved
 
 2 Look for routine things that can be automated
 
-3 Are there any plugins that you are not using that could make coding easier
+3 Are there any plugins that you are not using, that could make coding easier
 
 4 Look at alternative applications  and decide if switching is the right move (for you)
 
