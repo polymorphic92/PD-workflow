@@ -151,8 +151,8 @@ Note:
 ### Customization
 +++
 ### Q/A
-* Do customization your Applications/tools in your "Workflow"
-* How do you customization them
+* Do you customization your Applications/tools in your "Workflow"
+* How do you customize them
 
 Note:
 
