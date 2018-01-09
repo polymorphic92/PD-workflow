@@ -293,7 +293,7 @@ vagrant ,bash
 * What applications/process need to change 
 * How to adapt your current "workflow" to meet your future needs
 * Researching new apps/process that make your "workflow" easier
-* share your workflow
+* Share your workflow
 
 Note:
 optimizing does not stop here with these examples it could be expanded to:
