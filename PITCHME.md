@@ -83,7 +83,7 @@ These apps can do so much more
 ![gif](imgs/vscode/vscode-git-feature.PNG)
 
 +++
-![gif](imgs/vscode/vscode-plugin.PNG)
+![gif](imgs/vscode/vscode-plugins.PNG)
  <a href="https://marketplace.visualstudio.com/" target="_blank">Vscode Plugins</a>
 ---
 
