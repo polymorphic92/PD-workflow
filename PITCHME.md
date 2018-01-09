@@ -251,7 +251,7 @@ exd/msi/dmg/
 +++
 ### Docker
 - docker run (OPTIONS) IMAGE (COMMAND) (ARG...)
--  <a href="https://portainer.readthedocs.io/en/latest/deployment.html#quick-start" target="_blank">Portainer: a simple management solution for Docker </a> |
+- A simple management solution for Docker: <a href="https://portainer.readthedocs.io/en/latest/deployment.html#quick-start" target="_blank">Portainer</a> |
 - docker run -d -p 9000:9000 --restart always -v /var/run/docker.sock:/var/run/docker.sock -v /opt/portainer:/data portainer/portainer | 
 
 Note:
@@ -272,11 +272,11 @@ wont be a Pd presenation with out a docker demo
 ---
 
 ### Tying it Altogether
-Case :  When I write perl code I want to automatically lint (perltidy / perlcritic) the file(s) I was editing
+Case :  Write perl code and automatically lint (perltidy / perlcritic) the file(s)
 
-  - first phase  : Create a git pre-commit hook that automatically runs perltidy and perlcritic before code is committed  
-  - second phase : Run perltidy and perlcritic in a container (similar bamboo) |
-  - Third phase  : Replace hook with a text editor plugin that runs a container( perltidy and perlcritic) on saved |
+  - First step  : Create a git pre-commit hook that automatically runs perltidy and perlcritic before code is committed  
+  - second step : Run perltidy and perlcritic in a container (similar bamboo) |
+  - Third step  : Replace hook with a text editor plugin that runs a container( perltidy and perlcritic) on saved |
   
 Note:
  
@@ -291,7 +291,7 @@ Here is an example of use parts of the pervious examples and applying them to ma
 * What applications/process need to change 
 * How to adapt your current "workflow" to meet your future needs
 * Researching new apps/process that make your "workflow" easier
-* share your workflow/
+* share your workflow
 
 Note:
 optimizing does not stop here with these examples it could be expanded to:
